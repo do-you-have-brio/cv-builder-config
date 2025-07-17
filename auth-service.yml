@@ -1,6 +1,6 @@
-auth:
-  jwt:
-    public-key: |
+jwt:
+  public:
+    key: |
       -----BEGIN PUBLIC KEY-----
       MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjtgINE1keSlRBW/kp0d
       hpABKhJOXlixkx9v47aZ5XQ4xTK+rEGj9ET36BageuO+BD47Ib+wrA92q7S4aaNA
